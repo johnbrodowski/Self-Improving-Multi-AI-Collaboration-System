@@ -1,3 +1,6 @@
+# About this code
+This example was extracted from AGPA — my fully autonomous general-purpose agent (closed-source, ~150k LOC).
+
 # Self Improving Multi AI Collaboration System
 
 > **⚠️ FUNCTIONAL PROTOTYPE**
